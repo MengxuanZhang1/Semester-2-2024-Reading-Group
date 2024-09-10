@@ -9,13 +9,16 @@
 
 |        **Paper**        | **Read by** | **Presenter** | **Presentation date** |
 |:-----------------------:|:-----------:|:-------------:|:---------------------:|
-| [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf) ( [slides] ) |     sample     |  sample |          sample          |
+| [High Dimensional Spaces](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/chap1-high-dim-space.pdf) ( [slides] ) |     sample     |  sample |      e.g. 19th Oct 2024          |
+||||
 ||||
 ## Themes (Ignore the order of papers)
 
 ## Surveys
 
 ## Efficient Attention
+
+## Vector DB
 
 ## Distributed ML
 
